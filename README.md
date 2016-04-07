@@ -1,1 +1,1 @@
-Testing GPG signed commits.
+Testing GPG signed commits
